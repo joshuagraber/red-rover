@@ -23,7 +23,7 @@ h3 {
 /* ******** Main styles */
 body {
     height: auto;
-    background: url(/images/dark-sky-stars-tall.png) repeat-x bottom center / cover  rgba(16,4,31,.8);
+    background: url(./images/dark-sky-stars-tall.png) repeat-x bottom center / cover  rgba(16,4,31,.8);
     background-blend-mode: color-dodge;
     overflow-x: hidden;
 }
@@ -122,7 +122,7 @@ footer {
     position: fixed;
     bottom: 0;
     left: 0;
-    background: url(/images/footer-mars.png) repeat-x bottom  / cover;
+    background: url(./images/footer-mars.png) repeat-x bottom  / cover;
     display: flex;
     flex-direction: column;
 }
