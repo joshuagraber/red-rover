@@ -1,7 +1,7 @@
 const photoHeader = document.querySelector('.photo-heading');
 const photoDiv = document.querySelector('.photo-container');
 const button = document.querySelector('.btn');
-
+const main = document.querySelector('main');
 
 async function getJSON(url) {
   try {
