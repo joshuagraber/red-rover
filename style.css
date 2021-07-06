@@ -189,7 +189,6 @@ a:hover {
     }
     footer {
         height: 240px;
-        background-size: contain;
         flex-direction: row;
         justify-content: space-between;
     }
